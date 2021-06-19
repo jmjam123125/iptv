@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-id="NovaTV.cz" group-title="Channels",Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_xq.m3u8?offsetSeconds=0
+#EXTINF:0 tvg-id="NovaCinema.cz" group-title="Channels",Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_xq.m3u8?offsetSeconds=0
+#EXTINF:0 tvg-id="NovaAction.cz" group-title="Channels",Nova Action
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_xq.m3u8?offsetSeconds=0
+#EXTINF:0 tvg-id="NovaGold.cz" group-title="Channels",Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist/cze/live_xq.m3u8?offsetSeconds=0
+#EXTINF:0 tvg-id="JOJ.sk" group-title="Channels",JoJ
+http://nn.geo.joj.sk/hls/joj-360.m3u8
+#EXTINF:0 tvg-id="JOJPlus.sk" group-title="Channels",JOJ Plus
+http://nn.geo.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:0 tvg-id="JOJFamily.sk" group-title="Channels",JOJ Family
+https://nn5.joj.sk/hls/family-540.m3u8
+#EXTINF:0 tvg-id="Wau.sk" group-title="Channels",WAU
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:0 tvg-id="Wau.sk" group-title="Channels",WAU
+http://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:0 tvg-id="Markiza.sk" group-title="Channels",Markíza HD
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",eurosport1 CZ
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:0 tvg-id="PrimaCool.cz" group-title="Channels",Prima Cool
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:0 tvg-id="PrimaLOVE.cz" group-title="Channels",Prima Love
+http://92.62.234.223/101/mystream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Filmbox CZ
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
